@@ -13,3 +13,5 @@
 * Seção 6: Arquivos e módulos -- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Analise-Dados-FAE/2021/blob/main/aula2_git_github_python/python_parte1/6_arquivos_modulos_python.ipynb)
 
 * Seção 7: Programação Orientada a Objeto -- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Analise-Dados-FAE/2021/blob/main/aula2_git_github_python/python_parte1/7_OOP_python.ipynb)
+
+* Seção 8: Erros e exceções -- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Analise-Dados-FAE/2021/blob/main/aula2_git_github_python/python_parte1/8_excecoes_python.ipynb)
